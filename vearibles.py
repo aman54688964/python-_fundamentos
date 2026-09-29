@@ -9,3 +9,15 @@ print(name, "is", age, "years old.")
 name= "Bob"
 print("Name:", name)
 print("Age:", age)
+print(name, "is", age, "years old.")
+#declaration of a integer variable
+age= 25
+print("Age:", age)
+
+print(type(age))
+
+print(type(0.25))
+print(type(10))
+print(type(0.0025))
+print(type(age))
+print(name)
