@@ -13,3 +13,4 @@ temperature2 = 34
 print(temperature1 != temperature2)
 result3 = temperature1 != temperature2
 print(result3)
+w

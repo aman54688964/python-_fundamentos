@@ -9,6 +9,6 @@ if score > 50:
 # si no score es mayor o igual a 50, entonces imprime "You failed the test!"
 else:
     print("You failed the test.")
-
-
+elif score2 > 50:
+print("You passed the test!") 
 
